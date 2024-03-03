@@ -7,3 +7,6 @@ We introduce IVD-SEG, a large-scale standardized industrial defect image dataset
 
 ## Data
 Aavilable at [Zenodo](https://zenodo.org/uploads/10547589)
+
+# Additional information
+This dataset contains only part of the data, if you need the full data please contact us by email: zhuwenxuan2021@email.szu.edu.cn.
