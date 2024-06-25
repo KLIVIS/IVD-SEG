@@ -7,4 +7,4 @@ We introduce IVD-SEG, a large-scale standardized industrial defect image dataset
 ![image](https://github.com/KLIVIS/IVD-SEG/assets/115090662/6860e8bf-6474-4b39-be91-62b9365b1b7e)
 
 ## Data
-Aavilable at [Zenodo](https://zenodo.org/uploads/10547589)
+Aavilable at [Zenodo](https://zenodo.org/records/11559821)
